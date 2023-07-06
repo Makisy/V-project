@@ -203,8 +203,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.18, y: -206}
-  m_SizeDelta: {x: 989.08, y: 153.65}
+  m_AnchoredPosition: {x: -1.07, y: -206}
+  m_SizeDelta: {x: 987.3, y: 153.65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &163224833
 MonoBehaviour:
@@ -226,13 +226,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '
-
-    I recognize the glory of love, yet I feel no love towards myself,
-    only reverence towards my own happiness. I was conceived in ignorance and born
-    in the unforgiving nature of man.
-
-'
+  m_text: "I guess it might have something to do with that, the beastman replied
+    and chuckled. Though I'm worse on the inside I\u2019ve been told.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -295,7 +290,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0.0024642944}
+  m_margin: {x: 103.147736, y: 33.130703, z: 101.91028, w: -8.148933}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -548,7 +543,7 @@ RectTransform:
   m_GameObject: {fileID: 342854835}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.546142, y: 1.546142, z: 1.546142}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 164379471}
@@ -556,7 +551,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -552, y: -140.49}
+  m_AnchoredPosition: {x: -772, y: -126}
   m_SizeDelta: {x: 537.52, y: 537.52}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &342854837
@@ -791,7 +786,7 @@ RectTransform:
   m_GameObject: {fileID: 672958925}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.90277, y: 0.90277, z: 0.90277}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1175849313}
@@ -799,7 +794,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -74}
+  m_AnchoredPosition: {x: 0, y: -83.8}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &672958927
@@ -849,8 +844,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1429,7 +1424,7 @@ RectTransform:
   m_GameObject: {fileID: 1175849312}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4077634, y: 1.4077634, z: 1.4077634}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 672958926}
@@ -1439,7 +1434,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000076294, y: -53}
+  m_AnchoredPosition: {x: 0.0000076294, y: -41}
   m_SizeDelta: {x: 1087.4, y: 1087.43}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1175849314
@@ -1507,7 +1502,7 @@ RectTransform:
   m_GameObject: {fileID: 1232055301}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3190997, y: 1.3190997, z: 1.3190997}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 164379471}
@@ -1515,7 +1510,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 475, y: -8.0999}
+  m_AnchoredPosition: {x: 665, y: -18}
   m_SizeDelta: {x: 802.3, y: 802.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1232055303
