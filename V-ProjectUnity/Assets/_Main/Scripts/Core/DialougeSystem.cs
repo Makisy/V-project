@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Dialouge : MonoBehaviour
+public class DialougeSystem : MonoBehaviour
 {
     
-    [SerializeField] private DialougeContainer = new DialougeContainer();
+    [SerializeField] private DialougeContainer dialougeContainer = new DialougeContainer();
 
     // Start is called before the first frame update
     void Start()
